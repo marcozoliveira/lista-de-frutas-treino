@@ -2,5 +2,6 @@ Preciso me lembrar de comprar:
 
 goiaba 
 maça
+banana
 
 essa é minha lista de compras
